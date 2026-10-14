@@ -1,6 +1,6 @@
 ## Olá! Sou o Gustavo! 👋
 
-- 🔭 Buscando ser desenvolvedor front-end
+- 🔭 Buscando ser desenvolvedor full stack
 - 📖 Último ano de Análise e Desenvolvimento de Sistemas - UniCesumar
 - 🌱 Estudando Dart/Flutter 📱
 - 🌐 Português/BR | English
